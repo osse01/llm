@@ -1,13 +1,10 @@
-**LLM Agents**
+# LLM Agents
 
-My repo where I play around with MCP and Google ADK.
+My repo where I play around with **MCP** and **Google ADK**.
 
-To get started you need to have a api key. You can generate one for free on Google Cloud.
-After that set your environemt variable
-
-> GOOGLE_API_KEY="abcdef"
-> 
-> GEMINI_API_KEY="abcdef"
+## Preface
+To get started you need to have a API key. You can generate one for free on Google Cloud.
+After that set your environemt variable to both GOOGLE and GEMINI
 
 On linux you can for example append them to your .bashrc file:
 ```bash
@@ -31,7 +28,7 @@ in the virtual environment.
 After that you should be good too go!
 
 
-**Contents:**
+## Contents:
 
 1.  **song-agents:** 
 
