@@ -1,4 +1,4 @@
-** LLM Agents **
+**LLM Agents**
 
 My repo where I play around with MCP and Google ADK.
 
