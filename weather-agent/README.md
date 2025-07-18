@@ -15,9 +15,8 @@ An agent-based fusion of weather data. This code uses both YR and SMHI open sour
 >
 >**Tonight (July 18-19):** Clear skies. Temperatures will cool from 25°C to around 16°C. Light winds from the southeast, shifting to southwest.
 > 
->**Saturday (July 19):** Mostly clear and sunny. Highs around 30°C during the day, dropping to around 20°C overnight. Moderate winds from the
-> >east.
-> >
+>**Saturday (July 19):** Mostly clear and sunny. Highs around 30°C during the day, dropping to around 20°C overnight. Moderate winds from the east.
+> 
 >**Sunday (July 20):** Clear skies. Highs around 30°C during the day, dropping to around 20°C overnight. Moderate winds from the east.
 > 
 >**Monday (July 21):** Expecting cloudy day and a chance of light rain later. Temperatures will range from 18°C to 25°C.
