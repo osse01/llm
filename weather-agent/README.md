@@ -1,7 +1,8 @@
-**Weather Forecast using LLM-Agent**
+# Weather Forecast using LLM-Agent
 
 An agent-based fusion of weather data. This code uses both YR and SMHI open source data.
 
+## Example
 **Run example:**
 ```output
 python3 main.py
