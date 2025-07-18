@@ -8,18 +8,22 @@ After that set your environemt variable
 > GOOGLE_API_KEY="abcdef"
 > GEMINI_API_KEY="abcdef"
 
-On linux you can append them to the .bashrc file:
+On linux you can for example append them to your .bashrc file:
 ```bash
 echo 'export GOOGLE_API_KEY="abcdef"' >> ~/.bashrc
 echo 'export GEMINI_API_KEY="abcdef"' >> ~/.bashrc
 ```
 or add them to your .env file.
 
-On windows you can set the environment variables by searching on that setting.
+On windows you can set the environment variables by going to Settings > System > About > Advanced system settings. Click **Environment Variables** where you can add them.
+
+
+To install the dependencies,
 
 Run
 ```bash
 pip install adk
+pip install mcp
 ```
 in the virtual environment.
 
