@@ -6,6 +6,7 @@ To get started you need to have a api key. You can generate one for free on Goog
 After that set your environemt variable
 
 > GOOGLE_API_KEY="abcdef"
+> 
 > GEMINI_API_KEY="abcdef"
 
 On linux you can for example append them to your .bashrc file:
