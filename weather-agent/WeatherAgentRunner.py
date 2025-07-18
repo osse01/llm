@@ -38,17 +38,9 @@ class WeatherAgentRunner:
                 session_id=self.session_id
             )
 
-        # self.agent_tools = [
-        #     MCPToolset(
-        #         connection_params=StdioConnectionParams(
-        #             server_params=StdioServerParameters(
-        #                 command="npx",
-        #                 args=["-y", "@notionhq/notion-mcp-server"],
-                        
-        #             )
-        #         )
-        #     )
-        # ]
+        # TODO: Implement API calls as MCP tools so agent can choose more precisely 
+        #       which/what weather data to collect.
+
         self.agent_tools = []
         
         self.agent = LlmAgent(
