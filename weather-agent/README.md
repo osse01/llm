@@ -3,7 +3,7 @@
 An agent-based fusion of weather data. This code uses both YR and SMHI open source data.
 
 **Run example:**
-```python
+```bash
 python3 main.py
 
 Where do you want your forecast?
